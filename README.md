@@ -5,7 +5,7 @@
 
 Library for keeping up-to-date text file contents in memory.
 
-    [me.dryewo/mem-files "0.0.0"]
+    [me.dryewo/mem-files "0.1.0"]
 
 This is handy when your application reads runtime configuration from local files. The library reads them
 at given interval and exposes a map with their content.

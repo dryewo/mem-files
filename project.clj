@@ -1,4 +1,4 @@
-(defproject me.dryewo/mem-files "0.0.0"
+(defproject me.dryewo/mem-files "0.1.0"
   :description "Library for keeping up-to-date text file contents in memory."
   :url "http://github.com/dryewo/mem-files"
   :license {:name "Eclipse Public License"
